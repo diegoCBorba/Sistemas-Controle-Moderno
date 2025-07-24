@@ -10,8 +10,8 @@ Este projeto tem como objetivo criar um material didático complementar para os 
 | Capítulo | Tema Principal |  
 |----------|----------------|  
 | **4** | Características de Sistema de Controle com Retroação |  
-| **5** | Estabilidade de Sistemas de Controle |  
-| **6** | Projeto de Sistemas de Controle Realimentados |  
+| **5** | O Desempenho de Sistemas de Controle com Retroação |  
+| **6** | A Estabilidade de Sistemas Lineares com Retroação |  
 | **7** | Técnicas de Resposta em Frequência |  
 | **10** | Projeto no Espaço de Estados |  
 | **13** | Sistemas de Controle Digital |  
@@ -36,4 +36,5 @@ Este projeto tem como objetivo criar um material didático complementar para os 
 ### Capítulo 5 - O Desempenho de Sistemas de Controle com Retroação
    - [Google Colab Notebook](https://colab.research.google.com/drive/1dQdpd5cezFl2kFPN9ofuYRKLrL1QleZ8?usp=sharing)
 
-###
+### Capítulo 6 - A Estabilidade de Sistemas Lineares com Retroação
+   - [Google Colab Notebook](https://colab.research.google.com/drive/1CM0a3oBupWy99D_fCTtk9sKRKv8YPmAL?usp=sharing)
