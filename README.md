@@ -12,8 +12,8 @@ Este projeto tem como objetivo criar um material didático complementar para os 
 | **4** | Características de Sistema de Controle com Retroação |  
 | **5** | O Desempenho de Sistemas de Controle com Retroação |  
 | **6** | A Estabilidade de Sistemas Lineares com Retroação |  
-| **7** | Técnicas de Resposta em Frequência |  
-| **10** | Projeto no Espaço de Estados |  
+| **7** | O Método do Lugar das Raízes |  
+| **10** | O Projeto de Sistemas de Controle com Retroação |  
 | **13** | Sistemas de Controle Digital |  
 
 ## **Estrutura do Projeto**  
@@ -38,3 +38,8 @@ Este projeto tem como objetivo criar um material didático complementar para os 
 
 ### Capítulo 6 - A Estabilidade de Sistemas Lineares com Retroação
    - [Google Colab Notebook](https://colab.research.google.com/drive/1CM0a3oBupWy99D_fCTtk9sKRKv8YPmAL?usp=sharing)
+
+### Capítulo 7 - O Método do Lugar das Raízes
+   - [Google Colab Notebook](https://colab.research.google.com/drive/1bMh7g8qZAMPhKFZ99xauGMDlw2BeovrS?usp=sharing)
+
+### Capítulo 10 - O Projeto de Sistemas de Controle com Retroação
