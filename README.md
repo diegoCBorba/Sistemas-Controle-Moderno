@@ -9,7 +9,7 @@ Este projeto tem como objetivo criar um material didático complementar para os 
 ## **Capítulos Abordados**  
 | Capítulo | Tema Principal |  
 |----------|----------------|  
-| **4** | Análise de Resposta em Frequência |  
+| **4** | Características de Sistema de Controle com Retroação |  
 | **5** | Estabilidade de Sistemas de Controle |  
 | **6** | Projeto de Sistemas de Controle Realimentados |  
 | **7** | Técnicas de Resposta em Frequência |  
@@ -27,5 +27,13 @@ Este projeto tem como objetivo criar um material didático complementar para os 
 
 ## Capítulos
 
-### Capítulo 4: A Transformada-Z
-  - [Google Colab Notebook]()# Sistemas-Controle-Moderno
+### Capítulo 4: Características de Sistema de Controle com Retroação
+  - [Google Colab Notebook](https://colab.research.google.com/drive/1ywmXNwkXz1KC0z3Z4Dn6UMlmheqzfLsm?usp=sharing)
+  - [Introdução a Sistemas de Controle com Retroação](https://www.youtube.com/watch?v=O-OqgFE9SD4)
+  - [Simulações Interativas de Sistemas de Controle](https://ctms.engin.umich.edu/CTMS/index.php?example=Introduction&section=ControlPID)
+  - [Efeito de perturbações em Sistemas de Controle + retroação não unitária](https://www.youtube.com/watch?v=Z4lx_Nxww6M)
+
+### Capítulo 5 - O Desempenho de Sistemas de Controle com Retroação
+   - [Google Colab Notebook](https://colab.research.google.com/drive/1dQdpd5cezFl2kFPN9ofuYRKLrL1QleZ8?usp=sharing)
+
+###
