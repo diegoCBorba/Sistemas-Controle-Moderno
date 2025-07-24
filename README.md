@@ -44,3 +44,6 @@ Este projeto tem como objetivo criar um material didático complementar para os 
 
 ### Capítulo 10 - O Projeto de Sistemas de Controle com Retroação
    - [Google Colab Notebook](https://colab.research.google.com/drive/1pRIe5CBdwc7Tpm9GhqDve4Vh6LLsAWAP?usp=sharing)
+
+### Capítulo 13 - Sistemas de Controle Digital
+   - [Google Colab Notebook](https://colab.research.google.com/drive/1CkjaHg6IV6meucqMWOUMGbVEPshaBHj7?usp=sharing)
